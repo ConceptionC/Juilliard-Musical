@@ -5,7 +5,7 @@
       "type": "bubble",
       "hero": {
         "type": "image",
-        "url": "https://conceptionseo.com/wp-content/uploads/2021/01/Line1block.png",
+        "url": "https://conceptionseo.com/wp-content/uploads/2021/04/羅曉琪.jpg",
         "size": "full"
       },
       "body": {
@@ -14,16 +14,17 @@
         "contents": [
           {
             "type": "text",
-            "text": "Chloé 育璇",
-            "color": "#aaaaaa",
-            "size": "xl"
+            "text": "羅曉琪",
+            "color": "#000000",
+            "size": "xl",
+            "align": "center"
           },
           {
             "type": "text",
             "contents": [],
             "flex": 2,
             "wrap": true,
-            "text": "🌟中小企業總會數位行銷顧問\n🌟台北市旅遊同業工會數位行銷講師\n🌟台灣美妝公會網路行銷講師\n🌟行政院青輔會青年政策論壇主持人\n🌟嘉義市美髮美容工會數位行銷講師"
+            "text": "🎵 茱莉亞音樂文教事業有限公司負責人\n🎵 中華兩岸教育聯合會會員\n🎵 中華兩岸交流協會會員\n🎵 擔任多所幼兒園、小學、社團、長照樂齡、大學產學合作等⋯國內外音樂教育培訓專任講師。"
           }
         ]
       },
@@ -73,7 +74,7 @@
       "type": "bubble",
       "hero": {
         "type": "image",
-        "url": "https://conceptionseo.com/wp-content/uploads/2021/01/Line2block.png",
+        "url": "https://conceptionseo.com/wp-content/uploads/2021/04/茱莉亞音樂文教.jpg",
         "size": "full"
       },
       "body": {
@@ -82,16 +83,17 @@
         "contents": [
           {
             "type": "text",
-            "text": "Conception 康思迅數位",
-            "color": "#aaaaaa",
-            "size": "xl"
+            "text": "關於茱莉亞",
+            "color": "#000000",
+            "size": "xl",
+            "align": "center"
           },
           {
             "type": "text",
             "contents": [],
             "flex": 2,
             "wrap": true,
-            "text": "🌟桃園市青年局團隊（新明基地）\n🌟桃園青創日參與團隊\n🌟代表經濟部參與美國 CES 展覽\n🌟網站架設｜數位廣告｜SEO | 數據分析"
+            "text": "🎵 茱莉亞音樂文教事業有限公司\n🎵 服務於音樂教育28年\n🎵 秉持著敬業精神、專業教育服務\n🎵 求新求變永續多元化的經營\n🎵 永遠值得您信賴！"
           }
         ]
       },
@@ -150,16 +152,17 @@
         "contents": [
           {
             "type": "text",
-            "text": "ShopTube 介紹",
-            "color": "#aaaaaa",
-            "size": "xl"
+            "text": "服務項目",
+            "color": "#000000",
+            "size": "xl",
+            "align": "center"
           },
           {
             "type": "text",
             "contents": [],
             "flex": 2,
             "wrap": true,
-            "text": "台灣人骨子裡的行銷實力 \n🌟商品快速建立與上架🌟 \n🌟同步串流及影像處理🌟 \n🌟導購頁面 + 整合數據報表🌟"
+            "text": "🎵 音樂教學|舞蹈律動班體適能課程\n🎵 長青樂齡課程|銀髮族音樂輔療\n🎵 健康促進活動資派遣師資培訓\n🎵 音樂舞蹈表演藝術商業演出\n🎵 各項藝文親子活動承辦\n🎵 樂器|道具|教材買賣|租賃 服務"
           }
         ]
       },
