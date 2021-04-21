@@ -37,7 +37,7 @@
             "action": {
               "type": "uri",
               "label": "聯絡電話",
-              "uri": "tel:+886905870119"
+              "uri": "tel:+886932075091"
             },
             "style": "primary",
             "color": "#C48888",
@@ -47,8 +47,8 @@
             "type": "button",
             "action": {
               "type": "uri",
-              "label": "加Chloe的Line",
-              "uri": "https://line.me/ti/p/kqLGBGhpxw"
+              "label": "加 Line 好友",
+              "uri": "http://line.naver.jp/ti/p/8fGUzM6qGl"
             },
             "style": "primary",
             "color": "#B87070",
@@ -59,8 +59,8 @@
             "type": "button",
             "action": {
               "type": "uri",
-              "label": "個人簡介",
-              "uri": "https://conceptionseo.com/wp-content/uploads/2021/01/chloe-%E5%80%8B%E4%BA%BA%E7%B0%A1%E4%BB%8B.png"
+              "label": "加 Wechat 好友",
+              "uri": "https://u.wechat.com/kP9pY4qqaUwODxjz4jJqp5o"
             },
             "style": "primary",
             "color": "#AD5A5A",
@@ -105,8 +105,8 @@
             "type": "button",
             "action": {
               "type": "uri",
-              "label": "公司網站",
-              "uri": "https://conceptionseo.com/"
+              "label": "茱莉亞網站",
+              "uri": "https://education-center-5871.business.site/"
             },
             "style": "primary",
             "color": "#C48888",
@@ -116,8 +116,8 @@
             "type": "button",
             "action": {
               "type": "uri",
-              "label": "粉絲專頁",
-              "uri": "https://www.facebook.com/B2Bemarketing"
+              "label": "茱莉亞粉專",
+              "uri": "https://www.facebook.com/%E8%8C%B1%E8%8E%89%E4%BA%9E%E9%9F%B3%E6%A8%82%E6%96%87%E6%95%99%E4%BA%8B%E6%A5%AD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8-745583805784987/"
             },
             "style": "primary",
             "color": "#B87070",
@@ -128,8 +128,8 @@
             "type": "button",
             "action": {
               "type": "uri",
-              "label": "中小企業互助社團",
-              "uri": "https://www.facebook.com/groups/291646425160045"
+              "label": "茱莉亞IG",
+              "uri": "https://instagram.com/juliamusicart?igshid=1t6n25107z1yc"
             },
             "style": "primary",
             "color": "#AD5A5A",
@@ -143,7 +143,7 @@
       "type": "bubble",
       "hero": {
         "type": "image",
-        "url": "https://conceptionseo.com/wp-content/uploads/2021/01/Line3block.png",
+        "url": "https://conceptionseo.com/wp-content/uploads/2021/04/茱麗亞音樂文教服務項目.jpg",
         "size": "full"
       },
       "body": {
@@ -162,7 +162,7 @@
             "contents": [],
             "flex": 2,
             "wrap": true,
-            "text": "🎵 音樂教學|舞蹈律動班體適能課程\n🎵 長青樂齡課程|銀髮族音樂輔療\n🎵 健康促進活動資派遣師資培訓\n🎵 音樂舞蹈表演藝術商業演出\n🎵 各項藝文親子活動承辦\n🎵 樂器|道具|教材買賣|租賃 服務"
+            "text": "🎵 音樂教學|舞蹈律動班體適能課程\n🎵 長青樂齡課程|銀髮族音樂輔療\n🎵 音樂舞蹈師資派遣與講座培訓\n🎵 音樂舞蹈表演藝術商業演出\n🎵 各項藝文親子活動承辦\n🎵 樂器|道具|教材買賣|租賃 服務"
           }
         ]
       },
@@ -174,8 +174,8 @@
             "type": "button",
             "action": {
               "type": "uri",
-              "label": "ShopTube介紹",
-              "uri": "https://drive.google.com/file/d/1751CqPU1vIHU_3WTuWhVFmvlcGkpk5iJ/view"
+              "label": "課程項目",
+              "uri": "https://conceptionseo.com/wp-content/uploads/2021/04/茱莉亞課程項目-1-scaled.jpg"
             },
             "color": "#C48888",
             "style": "primary",
@@ -185,8 +185,8 @@
             "type": "button",
             "action": {
               "type": "uri",
-              "label": "官方IG帳號",
-              "uri": "https://www.instagram.com/hsuan.chloe/"
+              "label": "樂器項目",
+              "uri": "https://conceptionseo.com/wp-content/uploads/2021/04/茱莉亞樂器項目.png"
             },
             "style": "primary",
             "color": "#B87070",
